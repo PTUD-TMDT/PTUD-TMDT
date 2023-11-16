@@ -48,53 +48,53 @@ showSlide()
 
 let products = [
     {
-        name: 'JBL E55BT KEY BLACK',
-        image1: './images/JBL_E55BT_KEY_BLACK_6175_FS_x1-1605x1605px.png',
-        image2: './images/JBL_LIVE650BTNC_Product Image_Folded_Black.webp',
-        old_price: '400',
-        curr_price: '300'
+        name: 'Đồ Đá Bóng Đội Tuyển Nhật',
+        image1: './images/2. Đá bóng.jpg',
+        image2: './images/2.1. Đá bóng.jpg',
+        old_price: '120.000 VND',
+        curr_price: '99.000 VND'
     },
     {
-        name: 'JBL JR 310BT',
-        image1: './images/JBL_JR 310BT_Product Image_Hero_Skyblue.png',
-        image2: './images/JBL_JR 310BT_Product Image_Detail_Skyblue.png',
-        old_price: '400',
-        curr_price: '300'
+        name: 'Đồ Bóng Rổ Thang Long',
+        image1: './images/7. BR.jpg',
+        image2: './images/7.1. BR.jpg',
+        old_price: '180.000 VND',
+        curr_price: '100.000 VND'
     },
     {
-        name: 'JBL TUNE 750BTNC',
-        image1: './images/kisspng-beats-electronics-headphones-apple-beats-studio-red-headphones.png',
-        image2: './images/JBL_E55BT_KEY_RED_6063_FS_x1-1605x1605px.webp',
-        old_price: '400',
-        curr_price: '300'
+        name: 'Đồ Bóng Rổ Hanoi',
+        image1: './images/8. BR.jpg',
+        image2: './images/8.1. BR.jpg',
+        old_price: '180.000 VND',
+        curr_price: '100.000 VND'
     },
     {
-        name: 'JBL Horizon',
-        image1: './images/JBLHorizon_001_dvHAMaster.png',
-        image2: './images/JBLHorizon_BLK_002_dvHAMaster.webp',
-        old_price: '400',
-        curr_price: '300'
+        name: 'Áo Polo Tennis Actee',
+        image1: './images/10. Tennis.jpg',
+        image2: './images/10.1. Tennis.jpg',
+        old_price: '499.000 VND',
+        curr_price: '419.000 VND'
     },
     {
-        name: 'JBL Tune 220TWS',
-        image1: './images/JBL_TUNE220TWS_ProductImage_Pink_ChargingCaseOpen.png',
-        image2: './images/JBL_TUNE220TWS_ProductImage_Pink_Back.png',
-        old_price: '400',
-        curr_price: '300'
+        name: 'Áo Cầu Lông Yonex',
+        image1: './images/13. Cầu lông.jpg',
+        image2: './images/13.1 Cầu lông.jpg',
+        old_price: '169.000 VND',
+        curr_price: '150.000 VND'
     },
     {
-        name: 'UA Project Rock',
-        image1: './images/190402_E1_FW19_EarbudsWCase_S13_0033-1_1605x1605_HERO.png',
-        image2: './images/190402_E1_FW19_EarbudsWCase_S13_0033-1_1605x1605_BACK.png',
-        old_price: '400',
-        curr_price: '300'
+        name: 'Đồ Bơi Nam Ylike',
+        image1: './images/17. Bơi.jpg',
+        image2: './images/17.1. Bơi.jpg',
+        old_price: '185.000 VND',
+        curr_price: '155.000 VND'
     },
     {
-        name: 'JBL Endurance SPRINT',
-        image1: './images/JBL_Endurance-SPRINT_Product-Image_Red_front-1605x1605px.webp',
-        image2: './images/JBL-Endurance-Sprint_Alt_Red-1605x1605px.webp',
-        old_price: '400',
-        curr_price: '300'
+        name: 'Áo Khoác Esport 2023 LPL',
+        image1: './images/14. Esport.jpg',
+        image2: './images/14.1.Esport.jpg',
+        old_price: '297.000 VND',
+        curr_price: '237.000 VND'
     },
 ]
 
@@ -111,7 +111,7 @@ products.forEach(e => {
                 </div>
                 <div class="product-card-info">
                     <div class="product-btn">
-                        <button class="btn-flat btn-hover btn-shop-now">shop now</button>
+                        <button class="btn-flat btn-hover btn-shop-now">xem ngay</button>
                         <button class="btn-flat btn-hover btn-cart-add">
                             <i class='bx bxs-cart-add'></i>
                         </button>
